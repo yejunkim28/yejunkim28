@@ -1,7 +1,7 @@
 👋 Hi, I’m Yejun
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yejunkim28&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 
@@ -120,12 +120,12 @@ Bias & failure analysis
 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yejunkim28&show_icons=true&hide_title=true" />
 </p>
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejunkim28&layout=compact" />
 </p>
 
 
