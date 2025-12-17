@@ -1,89 +1,147 @@
 👋 Hi, I’m Yejun
 
-About Me
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-I’m a student developer with a strong interest in data science, machine learning, and applied mathematics. I enjoy building projects that sit at the intersection of theory and real-world systems, especially where algorithms, data, and decision-making meet.
 
-I’m most comfortable working with Python, and I like projects that require structured thinking, clean logic, and measurable outcomes rather than heavy writing or subjective interpretation.
-
-⸻
-
-Core Interests
-	•	📊 Data Science & Machine Learning
-	•	🧠 How AI systems work (models, training, inference)
-	•	🧮 Mathematics (calculus, linear algebra, algebra)
-	•	🏸 Computer vision applications in sports analytics
-	•	🔐 Technology ethics, cybersecurity, and responsible systems
 
 ⸻
 
-Featured Projects
+🧠 About Me
 
-⚽ Soccer Performance Prediction Model
+I focus on data science, machine learning, and applied mathematics, especially in sports analytics and computer vision. I prefer projects with clear metrics, testable assumptions, and interpretable results.
 
-A data science project focused on predicting future player performance metrics using historical match and season data.
-	•	Time-based feature engineering
-	•	Regression and classification approaches
-	•	Model evaluation and error analysis
-	•	Emphasis on interpretability over black-box accuracy
+I primarily work in Python and care more about why a model works (or fails) than blindly improving accuracy.
 
-⚾ MLB Offensive Value Modeling (OBP-Weighted)
+⸻
 
-An analytical project exploring improved ways to quantify offensive contribution beyond traditional stats.
-	•	OBP-weighted run creation concepts
-	•	Custom metric design and validation
-	•	Comparison against standard sabermetric measures
-	•	Data-driven critique of existing models
+🔎 What I’m Interested In (Click to Expand)
+
+<details>
+<summary><b>Machine Learning</b></summary>
+
+
+	•	Feature engineering and leakage control
+	•	Model evaluation and baselines
+	•	Trade-offs between accuracy and interpretability
+
+</details>
+
+
+<details>
+<summary><b>Sports Analytics</b></summary>
+
+
+	•	Player performance modeling
+	•	Metric design and validation
+	•	Translating raw stats into decision-ready insights
+
+</details>
+
+
+<details>
+<summary><b>Computer Vision</b></summary>
+
+
+	•	Action classification from video
+	•	Motion, speed, and occlusion challenges
+	•	Dataset quality over model complexity
+
+</details>
+
+
+
+⸻
+
+🚀 Featured Projects
+
+⚽ Soccer Performance Prediction
+
+Goal: Predict future player stats using historical match and season-level data.
+
+Key Work
+	•	Rolling-window and lag-based features
+	•	Regression vs classification framing
+	•	Error analysis by player role and minutes played
+
+Skills Used: Python, pandas, scikit-learn
+
+⸻
+
+⚾ MLB OBP-Weighted Offensive Value Model
+
+Goal: Build a more realistic offensive contribution metric using OBP-weighted run creation ideas.
+
+Key Work
+	•	Custom metric formulation
+	•	Comparison against traditional sabermetrics
+	•	Sensitivity analysis on weight choices
+
+Skills Used: Data analysis, statistics, model validation
+
+⸻
 
 🏸 Badminton Action Classification
 
-A computer vision and ML project classifying badminton actions (e.g., smash, clear, drop) from video data.
-	•	Action labeling and dataset construction
-	•	Feature extraction from video frames
-	•	Model training and performance trade-offs
-	•	Challenges with speed, motion blur, and viewpoint variance
+Goal: Classify badminton actions (smash, clear, drop, etc.) from video.
+
+Key Work
+	•	Action labeling and dataset design
+	•	Frame-level vs sequence-level modeling
+	•	Performance trade-offs under motion blur
+
+Skills Used: OpenCV, ML pipelines, video preprocessing
 
 ⸻
 
-Technical Skills
+🛠 Tech Stack
 
 Languages
-	•	Python (primary)
-	•	SQL (basic)
 
-Libraries & Tools
-	•	NumPy, pandas
-	•	scikit-learn
-	•	YOLO (object detection)
-	•	OpenCV (video processing)
-	•	Git & GitHub
+Python
 
-Concepts
-	•	Model training vs inference
-	•	Dataset design and validation
-	•	Feature engineering
-	•	Algorithmic bias and ethics
+Libraries / Tools
 
-⸻
+NumPy, pandas, scikit-learn
+OpenCV
+Git & GitHub
 
-How I Approach Projects
-	•	Start with a clear problem definition
-	•	Question assumptions early
-	•	Prefer simple, explainable solutions before complex ones
-	•	Iterate based on evidence, not guesses
+Core Concepts
+
+Feature engineering
+Model evaluation
+Metric design
+Bias & failure analysis
+
 
 ⸻
 
-Currently Exploring
-	•	Deeper understanding of neural networks
-	•	Real-time computer vision optimization
-	•	AI system reliability and failure cases
+📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" />
+</p>
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+
 
 ⸻
 
-Contact
+📌 How I Work
+	•	Start with a baseline before complex models
+	•	Question the data before tuning hyperparameters
+	•	Prefer explainable failure over unexplained success
+
+⸻
+
+📬 Contact
 	•	📧 School Email: @stu.siskorea.org
 
 ⸻
 
-I use GitHub as a workspace for thinking, testing, and refining ideas — not just storing finished code.
+GitHub is where I test ideas, break assumptions, and refine models — not just where I store finished code.
